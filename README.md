@@ -29,3 +29,5 @@ palabra=input("escribe un texto cualquiera")
 print("Mucho gusto",nombre,"tu edad es",round(años)," y la cantidad de letras en tu texto es:",len (palabra))
 #Este ejercicio pedira Nombre, Edad y un texto cualquiera al usuario para luego imprimir el resultado de cantidad de letras y sus datos.
 
+#Profe ya pude copiar todo de nuevo pero sigo sin poder depurarlo acan en visual y me salen otros errores mas, pero mientras te funcione a vos esta bien.
+
